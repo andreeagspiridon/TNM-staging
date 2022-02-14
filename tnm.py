@@ -2,7 +2,6 @@
 from tkinter import ttk
 from tkinter import *
 #represents all the functions and built-in modules in the tkinter library
-
 import tkinter
 top = tkinter.Tk()#an instance of tkinter frame or window
 top.resizable(False, False)#make the Tkinter window not resizable by setting the property to False
