@@ -8,3 +8,4 @@ The application will allow the user to select a type of cancer, input the values
 lymph node status(N) and the presence of metastasis(M) and it will output the tumor stage based on the 
 9th American Joint Committee on Cancer TNM system(AJCC).
 The current list of cancer types include stomach, pancreatic and liver cancer.
+![](https://github.com/andreeagspiridon/TNM-staging/blob/main/img1.png)
